@@ -4,3 +4,26 @@ __pycache__/
 .env
 db/chroma/
 .streamlit/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Chroma Database
+chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db
